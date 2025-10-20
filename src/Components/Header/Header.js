@@ -9,7 +9,7 @@ function Header() {
             </div>
             <div className="header-links">
                 <div className="items">
-                    <a href="https://t.me/Akmalbor_bot" target="_blank" rel="noopener noreferrer">
+                    <a href="7501527588:AAGSRxW4NsLWSA6EgHunk24lBBLHGnBs_Pk" target="_blank" rel="noopener noreferrer">
                         <i className="fa-brands fa-telegram"></i>
                     </a>
                 </div>
