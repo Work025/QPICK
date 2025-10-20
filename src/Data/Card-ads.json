@@ -1,0 +1,23 @@
+[
+    {
+        "img": "adscard1",
+        "name": "Apple AirPods",
+        "star": 4.7,
+        "value": 3527,
+        "value_arzon": "none"
+    },
+    {
+        "img": "adscard2",
+        "name": "GERLAX GH-04",
+        "star": 4.7,
+        "value": 6527,
+        "value_arzon": "none"
+    },
+    {
+        "img": "adscard3",
+        "name": "BOROFONE BO4",
+        "star": 4.7,
+        "value": 7527,
+        "value_arzon": "none"
+    }
+]

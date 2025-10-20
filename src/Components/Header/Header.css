@@ -1,0 +1,75 @@
+.header {
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-logo {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    gap: 65px;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.header-h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    color: #101010;
+}
+
+.header-p {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    justify-content: flex-start;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    color: #101010;
+}
+
+.header-links {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.items {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.items {
+    font-size: 20px;
+    color: #838383;
+}
+
+.header-links .items:nth-child(1):hover i {
+    color: #0088cc;
+    /* Telegram blue */
+    transform: scale(1.3);
+}
+
+/* 2-chi icon (Heart) */
+.header-links .items:nth-child(2):hover i {
+    color: #e63946;
+    /* red */
+    transform: scale(1.3);
+}
+
+/* 3-chi icon (Cart) */
+.header-links .items:nth-child(3):hover i {
+    color: #2a9d8f;
+    /* green */
+    transform: scale(1.3);
+}

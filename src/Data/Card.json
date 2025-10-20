@@ -1,0 +1,44 @@
+[
+    {
+        "img": "card1",
+        "name": "Apple BYZ S852I",
+        "star": 4.7,
+        "value": 3527,
+        "value_arzon": 2927
+    },
+    {
+        "img": "card2",
+        "name": "Apple EarPods",
+        "star": 4.5,
+        "value": 2327,
+        "value_arzon": "none"
+    },
+    {
+        "img": "card3",
+        "name": "Apple EarPods",
+        "star": 4.5,
+        "value": 2327,
+        "value_arzon": "none"
+    },
+    {
+        "img": "card1",
+        "name": "Apple EarPods",
+        "star": 4.7,
+        "value": 3527,
+        "value_arzon": 2927
+    },
+    {
+        "img": "card2",
+        "name": "Apple BYZ S852I",
+        "star": 4.5,
+        "value": 2327,
+        "value_arzon": "none"
+    },
+    {
+        "img": "card3",
+        "name": "Apple EarPods",
+        "star": 4.5,
+        "value": 2327,
+        "value_arzon": "none"
+    }
+]
