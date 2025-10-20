@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/QPICK/static/css/main.3e703a4e.css",
-    "main.js": "/QPICK/static/js/main.5eb65ea6.js",
+    "main.js": "/QPICK/static/js/main.4a68e745.js",
     "static/js/453.8923f3e6.chunk.js": "/QPICK/static/js/453.8923f3e6.chunk.js",
     "static/media/logo-png.svg": "/QPICK/static/media/logo-png.2a90c0296523cf51124f1940dffccf4e.svg",
     "static/media/Card2.svg": "/QPICK/static/media/Card2.2caa6d639051397f2b38ec71df7bc2cd.svg",
@@ -15,11 +15,11 @@
     "static/media/Card1.svg": "/QPICK/static/media/Card1.baa4368f638778d09712044479aa1228.svg",
     "index.html": "/QPICK/index.html",
     "main.3e703a4e.css.map": "/QPICK/static/css/main.3e703a4e.css.map",
-    "main.5eb65ea6.js.map": "/QPICK/static/js/main.5eb65ea6.js.map",
+    "main.4a68e745.js.map": "/QPICK/static/js/main.4a68e745.js.map",
     "453.8923f3e6.chunk.js.map": "/QPICK/static/js/453.8923f3e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e703a4e.css",
-    "static/js/main.5eb65ea6.js"
+    "static/js/main.4a68e745.js"
   ]
 }
